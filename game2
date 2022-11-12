@@ -1,7 +1,15 @@
 Anđela ima x pobjeda i 2 poraza!
 Luka ima 2 pobjeda i n poraza!
 
+<<<<<<< Updated upstream
 x x x
+=======
+<<<<<<< HEAD
+x x o
+=======
+x x x
+>>>>>>> stol
+>>>>>>> Stashed changes
 o x o
 . o .
 

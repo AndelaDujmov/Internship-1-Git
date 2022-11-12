@@ -1,6 +1,16 @@
 Anđela ima 0 pobjeda i 3 poraza!
 Luka ima 3 pobjeda i 0 poraza!
 
+<<<<<<< Updated upstream
 x x o
 x o .
+=======
+<<<<<<< HEAD
+. x o
+x o o
+=======
+x x o
+x o .
+>>>>>>> stol
+>>>>>>> Stashed changes
 x o .
